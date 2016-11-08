@@ -4,6 +4,11 @@ Link to skin: http://skins.b2evolution.net/existence-skin
 
 <img src="skinshot.png"/>
 
+#### v1.1.1
+
+- Skin name fix
+- Skinshot
+
 #### v1.1.
 
 - Sitewide_header included for easier multi-blogging experience
